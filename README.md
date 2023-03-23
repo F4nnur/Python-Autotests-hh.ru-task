@@ -1,8 +1,8 @@
 # Ахметов Фаннур tg: @stoptalkingthatshit
 ## Тестовое задание для вакансии тестировщика
-<br>
+
 ##Установка зависимостей:
-> pip install selenium
-<br>
+>pip install selenium
+
 ##Запуск проекта:
-> python main.py``
+>python main.py
