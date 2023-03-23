@@ -1,0 +1,1 @@
+# Python-Autotests-hh.ru-task
